@@ -47,3 +47,8 @@ ul {
 .color-red {
 	color: #D34943;
 }
+span {
+	display: block;
+	margin-top: 7px;
+	font-size: 12px;
+}
