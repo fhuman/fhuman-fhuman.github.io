@@ -5,6 +5,8 @@
 }
 body {
 	border-top: 5px solid rgba(0, 76, 204, .7);
+	border-left: 5px solid rgba(0, 76, 204, .7);
+	border-right: 5px solid rgba(0, 76, 204, .7);
 }
 h1, h2, h3, h4 {
  	font-weight: 300;
