@@ -4,6 +4,7 @@
 	font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 body {
+	color: #777;
 	border-top: 5px solid rgba(0, 76, 204, .7);
 	border-left: 5px solid rgba(0, 76, 204, .7);
 	border-right: 5px solid rgba(0, 76, 204, .7);
@@ -14,8 +15,10 @@ h1, h2, h3, h4 {
 }
 h1{
 	font-size: 36px; 
-	color: #004CCC; 
 	text-align: center;
+}
+h3 {
+	margin-top: 15px;
 }
 hr {
 	border: none; 
@@ -28,4 +31,19 @@ input {
 	height: 30px;
 	width: 100%;
 	border: 1px solid rgba(81, 163, 81, .7);
+}
+.text-center {
+	text-align: center;
+}
+ul {
+	margin-top: 15px; margin-left: 40px;
+}
+.color-green {
+	color: #52A652;
+}
+.color-blue {
+	color: #004CCC;
+}
+.color-red {
+	color: #D34943;
 }
